@@ -1,0 +1,43 @@
+/*Progresso, Porcentagem*/
+
+.presidente 
+{
+	margin-top: 230px;
+}
+
+.presidente h1
+{
+	font-size: 45px;
+}
+
+.presidente h4
+{
+	float: right;
+	margin-top: -50px;
+	color: #9A9A9A
+}
+
+.presidente p
+{
+	margin-top: 20px;
+}
+
+/*Fim Progresso, Porcentagem*/
+
+/*Candidatos*/
+
+.candidatos h1
+
+{
+	font-size: 25px;
+	margin-top: 40px
+}
+
+.foto
+{
+	width: 75px;
+	height: 75px;
+	margin-top: 10px
+}
+
+
